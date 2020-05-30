@@ -1,2 +1,1 @@
-# shell
-scripting
+Have to start learn:)
